@@ -12,10 +12,10 @@
  <h2>My latest projects</h2>
  <a href='https://github.com/Garik9402/Clock'>Clock - Стрелочные часы, текущее время</a> 
 <br />
-  <a style='display:none' href='https://garik9402.github.io/Besnik/'>Besnik</a><br />
-  <a href='https://github.com/Garik9402/slider-aplic'>Slider</a><br />
-  <a href='https://garik9402.github.io/Netbook/'>Netbook</a><br />
-  <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a><br />
+  <a href='https://garik9402.github.io/Besnik/'>Besnik - Сервис для маркетологов и предпринимателей</a><br />
+  <a href='https://github.com/Garik9402/slider-aplic'>Slider - Слайдер с картинками пейзажа</a><br />
+  <a href='https://garik9402.github.io/Netbook/'>Netbook - Социальная сеть</a><br />
+  <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond - Сервис для маркетологов и предпринимателей</a><br />
 
   <h2>About me</h2>
 🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
