@@ -6,13 +6,13 @@
 <a href='https://www.codewars.com/users/Garik9402'>
  <img src='https://www.codewars.com/users/Garik9402/badges/large' alt='codeWrasImg'></img>
 </a>
-  
+   
  <p>My name is Garik, I'm a frontend developer! I love development very much and I try to make beautiful and effective websites and applications.
  
  <h2>My latest projects</h2>
  <a href='https://github.com/Garik9402/Clock'>Clock - Стрелочные часы, текущее время</a> 
 <br />
-  <a href='https://garik9402.github.io/Besnik/'>Besnik - Сервис для маркетологов и предпринимателей</a><br />
+ <h4> <a href='https://garik9402.github.io/Besnik/'>Besnik</a> - Сервис для маркетологов и предпринимателей</h4><br />
   <a href='https://github.com/Garik9402/slider-aplic'>Slider - Слайдер с картинками пейзажа</a><br />
   <a href='https://garik9402.github.io/Netbook/'>Netbook - Социальная сеть</a><br />
   <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond - Сервис для маркетологов и предпринимателей</a><br />
