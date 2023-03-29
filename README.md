@@ -6,12 +6,13 @@
 <a href='https://www.codewars.com/users/Garik9402'>
  <img src='https://www.codewars.com/users/Garik9402/badges/large' alt='codeWrasImg'></img>
 </a>
- 
- <p>Меня зовут Гарик, я frontend-разработчик! Мне очень сильно нравится разработка и страюсь делать красивые и эффективные веб-сайты и приложения. 
- 
-Обо мне 
-🤟Я большой поклонник БЭМ, Lea Verou, Vanilla JS. 
-💡Я часто начинаю разрабатывать сервисы для себя или близких мне людей. 
-🌱Подобно тому, как GitHub расширил мир, я хотел бы внести свой вклад в будущее, в котором мир обогащается людьми, постепенно поддерживающими друг друга. 
-🥁 Я играю на барабанах.</p>
+  
+ <p>My name is Garik, I'm a frontend developer! I love development a lot and strive to make beautiful and effective websites and applications. 
+ <hr>
+
+  <h2>About me</h2>
+🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
+💡I often start developing services for myself or people close to me.<br/>
+🌱Just as GitHub expanded the world, I would like to contribute to a future in which the world is enriched by people who gradually support each other.<br/>
+🥁 I play drums.</p>
   
