@@ -11,6 +11,10 @@
  
  <h2>My latest projects</h2>
   <a href='https://github.com/Garik9402/Clock'>Clock</a>
+  <a href='garik9402.github.io/Besnik/'>Besnik</a>
+  <a href='https://github.com/Garik9402/slider-aplic'>Slider</a>
+  <a href='garik9402.github.io/Netbook/'>Netbook</a>
+  <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a>
 
   <h2>About me</h2>
 🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
