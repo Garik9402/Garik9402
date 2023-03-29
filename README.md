@@ -7,8 +7,10 @@
  <img src='https://www.codewars.com/users/Garik9402/badges/large' alt='codeWrasImg'></img>
 </a>
   
- <p>My name is Garik, I'm a frontend developer! I love development a lot and strive to make beautiful and effective websites and applications. 
- <hr>
+ <p>My name is Garik, I'm a frontend developer! I love development very much and I try to make beautiful and effective websites and applications.
+ 
+ <h2>My latest projects</h2>
+  <a href='https://github.com/Garik9402/Clock'>Clock</a>
 
   <h2>About me</h2>
 🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
