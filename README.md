@@ -10,11 +10,11 @@
  <p>My name is Garik, I'm a frontend developer! I love development very much and I try to make beautiful and effective websites and applications.
  
  <h2>My latest projects</h2>
-  <a href='https://github.com/Garik9402/Clock'>Clock</a>
-  <a href='garik9402.github.io/Besnik/'>Besnik</a>
-  <a href='https://github.com/Garik9402/slider-aplic'>Slider</a>
-  <a href='garik9402.github.io/Netbook/'>Netbook</a>
-  <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a>
+  <a href='https://github.com/Garik9402/Clock'>Clock</a><br />
+  <a href='garik9402.github.io/Besnik/'>Besnik</a><br />
+  <a href='https://github.com/Garik9402/slider-aplic'>Slider</a><br />
+  <a href='garik9402.github.io/Netbook/'>Netbook</a><br />
+  <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a><br />
 
   <h2>About me</h2>
 🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
