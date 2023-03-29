@@ -14,7 +14,7 @@
  <h4><a href='https://garik9402.github.io/Besnik/'>Besnik</a> - Сервис для маркетологов и предпринимателей<h4>
   <h4><a href='https://github.com/Garik9402/slider-aplic'>Slider</a> - Слайдер с картинками пейзажа</h4>
    <h4><a href='https://garik9402.github.io/Netbook/'>Netbook</a> - Социальная сеть</h4>
-   <h4><a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a> - Сервис для маркетологов и предпринимателей,банковское дело</h4>
+   <h4><a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a> - Сервис для маркетологов и предпринимателей, банковское дело</h4>
 
   <h2>About me</h2>
 🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
