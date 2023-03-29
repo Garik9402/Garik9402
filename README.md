@@ -11,9 +11,9 @@
  
  <h2>My latest projects</h2>
   <a href='https://github.com/Garik9402/Clock'>Clock</a><br />
-  <a href='https://garik9402.github.io/Besnik/' target='_blank'>Besnik</a><br />
+  <a href='https://garik9402.github.io/Besnik/'>Besnik</a><br />
   <a href='https://github.com/Garik9402/slider-aplic'>Slider</a><br />
-  <a href='garik9402.github.io/Netbook/'>Netbook</a><br />
+  <a href='https://garik9402.github.io/Netbook/'>Netbook</a><br />
   <a href='https://github.com/Garik9402/besnisSec'>BesnikSecond</a><br />
 
   <h2>About me</h2>
