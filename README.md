@@ -20,6 +20,7 @@
 🤟I'm a big fan of BEM, Lea Verou, Vanilla JS.<br/> 
 💡I often start developing services for myself or people close to me.<br/>
 🌱Just as GitHub expanded the world, I would like to contribute to a future in which the world is enriched by people who gradually support each other.<br/>
+💻 I often attend conferences and seminars related to front-end development, both online and offline.<br/>
 🪘 I play folk percussion instruments.<br/>
 🎼 I spend my free time on creativity, as immersion in music gives me strength and inspiration for more interesting projects.
 </p>
