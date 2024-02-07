@@ -10,7 +10,7 @@
  <p>My name is Garik, I'm a frontend developer! I love development very much and I try to make beautiful and effective websites and applications.
  
  <h2>My latest projects</h2>
- <h4><a href='https://github.com/Garik9402/Clock'>Clock</a>  - Arrow clock, current time</h4>
+ <h4><a href='https://github.com/Garik9402/Clock/'>Clock</a>  - Arrow clock, current time</h4>
  <h4><a href='https://garik9402.github.io/Besnik/'>Besnik</a> - Service for marketers and entrepreneurs<h4>
   <h4><a href='https://github.com/Garik9402/slider-aplic'>Slider</a> - Slider with landscape pictures</h4>
    <h4><a href='https://garik9402.github.io/Netbook/'>Netbook</a> - Social network</h4>
